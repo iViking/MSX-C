@@ -120,9 +120,7 @@ MSX Turbo R-Compatible System
 
   - CPU: R800 @ 7.16MHz/Z80 @ 3.58MHz
   - VDP: V9958 &amp; V9990 compatible Video for output to HDMI at 720p
-  - Sound: YM2149 PSG/SCC+/MSX-AUDIO/MSX-MUSIC/
-
-Moonsound/PCM for output to HDMI as 2-channel, 16-bit PCM
+  - Sound: YM2149 PSG/SCC+/MSX-AUDIO/MSX-MUSIC/Moonsound/PCM for output to HDMI as 2-channel, 16-bit PCM
 
 - 512kB SRAM (at minimum), 512 kB VRAM
 - ROM consisting of:
