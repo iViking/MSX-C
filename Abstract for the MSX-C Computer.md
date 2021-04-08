@@ -1,6 +1,6 @@
 # Abstract for the MSX-C Computer
 
-**Ver 1.02**
+**Ver 1.03**
 
 ![](/MSX-C_Logo.png)
 
@@ -91,6 +91,8 @@ I will help as much as I can on this project, just as you all have been a help t
 ## Version Notes
 
 1.02 – 7 Apr 2021 – Base Version; conversion from original docx to md
+
+1.03 - 8 Apr 2021 - markdown formatting improvements (konamiman)
 
 ## Objective
 
